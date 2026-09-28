@@ -19,12 +19,12 @@ Ziel ist es, die entstandenen Arbeiten, Gestaltungskonzepte und dazugehörigen D
 
 Die einzelnen Aufgaben werden nach Modulen und Projekten strukturiert abgelegt.
 
-| Modul          | Thema            | Status        | 
-| -------------- | ---------------- | ------------- | 
-| Modulaufgabe 1 | Visual Design M1 | Abgeschlossen |   
-| Modulaufgabe 2 | –                | –             |  
-| Modulaufgabe 3 | –                | –             |            
-| Modulaufgabe 4 | –                | –             |            
+| Modul          | Thema              | Status        | 
+| -------------- | -------------------| ------------- | 
+| Modulaufgabe 1 | Visual Design M1   | Abgeschlossen |   
+| Modulaufgabe 2 | App Design M2      | Abgeschlossen |  
+| Modulaufgabe 3 | Website Design M3  | Abgeschlossen |            
+| Modulaufgabe 4 | –                  | –             |            
 
 Die Übersicht wird im Laufe der Weiterbildung ergänzt.
 
