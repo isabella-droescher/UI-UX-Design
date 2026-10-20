@@ -24,7 +24,7 @@ Die einzelnen Aufgaben werden nach Modulen und Projekten strukturiert abgelegt.
 | Modulaufgabe 1 | Visual Design M1   | Abgeschlossen |   
 | Modulaufgabe 2 | App Design M2      | Abgeschlossen |  
 | Modulaufgabe 3 | Website Design M3  | Abgeschlossen |            
-| Modulaufgabe 4 | –                  | –             |            
+| Modulaufgabe 4 | User Experience M4 | Abgeschlossen |            
 
 Die Übersicht wird im Laufe der Weiterbildung ergänzt.
 
